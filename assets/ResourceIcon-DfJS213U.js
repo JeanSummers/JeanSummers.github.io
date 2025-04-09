@@ -1,1 +1,0 @@
-import{r as n,j as r,S as t}from"./index-CFGERTp2.js";const i="/sprite.svg",x=n.memo(function({name:e,category:s,...o}){return r.jsx(t,{...o,children:r.jsx("svg",{stroke:"currentColor",viewBox:"0 0 512 512",fill:"none",children:r.jsx("use",{xlinkHref:`${i}#${s}--${e}`})})})});export{x as G};
