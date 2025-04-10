@@ -1,16 +1,25 @@
 const n=`## Особенности строения
 
-![](https://sun9-79.userapi.com/impg/c858424/v858424681/fe64f/mw5WafYSmuY.jpg?size=487x263&quality=96&sign=cf31ba7def0b39fa652034524f9c5a34&type=album)
-
-![](https://sun9-44.userapi.com/impg/c858424/v858424681/fe656/3P7wKMozFj0.jpg?size=487x263&quality=96&sign=4fc8d49476edb633e6c5d9ed490f31ee&type=album)
-
-![](https://sun9-47.userapi.com/impg/c858424/v858424681/fe65d/E88fvMryrzM.jpg?size=487x263&quality=96&sign=4cc1796265fc48866fa21507062f2e0e&type=album)
-
-**Side**
-
-**Front**
-
-**Top**
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(30px, 250px)); justify-content: center; justify-items: center">
+  <div style="display: flex; flex-direction: column; align-items: center">
+    <img
+      src="https://sun9-79.vkuserphoto.ru/impg/c858424/v858424681/fe64f/mw5WafYSmuY.jpg?size=487x263&quality=96&sign=cf31ba7def0b39fa652034524f9c5a34&type=album"
+    />
+    <strong>Side</strong>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center">
+    <img
+      src="https://sun9-44.vkuserphoto.ru/impg/c858424/v858424681/fe656/3P7wKMozFj0.jpg?size=487x263&quality=96&sign=4fc8d49476edb633e6c5d9ed490f31ee&type=album"
+    />
+    <strong>Front</strong>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center">
+    <img
+      src="https://sun9-47.vkuserphoto.ru/impg/c858424/v858424681/fe65d/E88fvMryrzM.jpg?size=487x263&quality=96&sign=4cc1796265fc48866fa21507062f2e0e&type=album"
+    />
+    <strong>Top</strong>
+  </div>
+</div>
 
 Своим внешним видом Ксорлоксы отдаленно напоминают птицу, нечто среднее между марабу и орлом. Один из членов "живых" описывал их так:
 
@@ -59,7 +68,9 @@ const n=`## Особенности строения
 Задача родителя с этого момента - найти подходящую для развития детенышей среду. Чаще всего Ксорлокс в таком случае ищет места неподалеку от скопления пустых. Почему? Из-за способа "откладывания" яиц. Как только особь посчитает ту или иную территорию пригодной, миссия всей ее жизни считается завершенной. Ксорлокс высвобождает всю накопленную за годы энергию разом, что ведет к возникновению взрыва. Его мощность, пусть и зависит от объема запасов маны, все же далеко не так высока, как у тех же солов, однако ее с избытком хватает для того, чтобы разбросать по округе не только оставшиеся внутренности существа, но и яйца. Буквально через полчаса после взрыва большинство маленьких Ксорлоксов уже покидают защитную оболочку. И им, как на блюдце, уже поданы их первые Хозяева - низшие пустые, привлеченные резким всплеском магической энергии.  
 В случае, если в момент подготовки взрыва рядом с тварью оказывается что-то живое, то это что-то тут же попадает в "объятия" Ксорлокса, и тот устраивает самоубийство прямо на нем. Если после этого жертва и выживет, она почти стопроцентно станет одним из Хозяев для маленьких "птенчиков".
 
-![](https://sun9-26.userapi.com/impg/c853524/v853524064/187cf6/nyfHnMSCJDo.jpg?size=807x219&quality=96&sign=a312321400fb92f4f11f1ca04bacc4f4&type=album)
+<center>
+![](https://sun9-26.vkuserphoto.ru/impg/c853524/v853524064/187cf6/nyfHnMSCJDo.jpg?size=807x219&quality=96&sign=a312321400fb92f4f11f1ca04bacc4f4&type=album)
+</center>
 
 ## Исключения/нюансы
 
