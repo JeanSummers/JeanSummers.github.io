@@ -13,7 +13,7 @@ const n=`## Особенности строения
 
 Подобно обычным змеям, Декрейсы имеют различные морфы (окрасы). Грешникам известно всего 6, но только одна из них проявляется лишь в особой ситуации - при скорой гибели:
 
-<div style="display: grid; grid-template-columns: repeat(3, 170px); gap: 4px; justify-content: center; justify-items: center">
+<div style="display: grid; grid-template-columns: repeat(3, minmax(30px, 250px)); gap: 4px; justify-content: center; justify-items: center">
   <img
     src="https://sun9-73.userapi.com/impg/c858324/v858324957/efb59/9LGpcLX9rjk.jpg?size=604x604&quality=96&sign=4ff4b75389a470b1da246582f829d793&type=album"
   />
