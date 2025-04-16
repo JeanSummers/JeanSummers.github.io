@@ -3,14 +3,14 @@ const n=`## Особенности строения
 <img
   width="300"
   height="305"
-  style="float: right"
+  class="responsive-float-right"
   src="https://sun9-53.userapi.com/impg/-pOo1NyY2ZUc3LjPNCXH-q2bdGfrH9HeaRDtiA/7-PFIs1_l7w.jpg?size=594x604&quality=96&sign=e8b50c07945da2964736c91c32b00d02&type=album"
 /> Брауни сложно спутать с каким-либо другим существом - их внешний вид весьма необычен. При первой встрече непривыкшему грешнику захочется проморгаться от мысли: "Это.. летающий домик?" Но это здесь не поможет, ведь Брауни - и правда летающие домики. Совсем крошечные, около 8 см в высоту, эти маленькие создания, напоминающие миниатюру избушки, обладают не только крыльями (впрочем, не они дают существам возможность летать), но и не менее милыми коротенькими лапками.
 
 <img
   width="300"
   height="305"
-  style="float: left"
+  class="responsive-float-left"
   src="https://sun9-4.userapi.com/impg/k9m7ObNXb9ll72ihf5wVbc9w6vAN9oAVY02ImQ/xBwAx7bTUSA.jpg?size=554x604&quality=96&sign=e13cfae36c71649be7254c269f1afa4a&type=album"
 /> Наощупь твердая, шероховатая текстура их кожи напоминает застывшую глину, да и существо в целом напоминает статуэтку.
 

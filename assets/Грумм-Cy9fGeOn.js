@@ -51,7 +51,7 @@ const n=`## Особенности строения
 <img
   width="308"
   height="400"
-  style="float: right;"
+  class="responsive-float-right"
   src="https://sun9-46.userapi.com/impf/c848632/v848632670/ca9ab/3XYafT9DU0Q.jpg?size=466x604&quality=96&sign=879569368cbafc55c091fcfb30913d09&type=album"
 />
 
