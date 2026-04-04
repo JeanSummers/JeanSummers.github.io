@@ -1,1 +1,0 @@
-import{c as e}from"./useRouter-LIs4hzI5.js";import{c as t}from"./index-BfX8XNJC.js";var n=e();function r(){return(0,n.jsx)(t,{to:`/creatures`})}export{r as component};

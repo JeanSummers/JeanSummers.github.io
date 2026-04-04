@@ -1,1 +1,0 @@
-import{Ft as e,Pt as t}from"./dist-DE6eMizu.js";function n(t){return e(`MuiDivider`,t)}var r=t(`MuiDivider`,[`root`,`absolute`,`fullWidth`,`inset`,`middle`,`flexItem`,`light`,`vertical`,`withChildren`,`withChildrenVertical`,`textAlignRight`,`textAlignLeft`,`wrapper`,`wrapperVertical`]);export{n,r as t};

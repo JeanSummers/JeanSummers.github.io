@@ -1,0 +1,1 @@
+import{t as e,u as t}from"./useNavigate-riF5A55k.js";var n=t();function r(){return(0,n.jsx)(e,{to:`/creatures`})}export{r as component};
