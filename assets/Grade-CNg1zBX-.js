@@ -1,1 +1,0 @@
-import{u as e}from"./useNavigate-riF5A55k.js";import{V as t}from"./creatures-rWyjl9z5.js";function n(e){return[...e].sort((e,t)=>e.starred===t.starred?e.name.localeCompare(t.name):e.starred?-1:1)}var r=t((0,e().jsx)(`path`,{d:`M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z`}),`Grade`);export{n,r as t};
